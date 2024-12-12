@@ -17,13 +17,13 @@
 <a href="https://protfolio-shailesh-full-stack-developer.vercel.app" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shailesh-kale-0b1236228" target="_blank">
+<a href="https://www.linkedin.com/in/shailesh-kale-0b1236228" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/share/1ApJn8z1ed/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/Shaileshkale123?t=nD5Bwc4AdZ3zEbgoF__r0A&s=09" target="_blank">
+<a href="https://twitter.com/Shaileshkale123?t=nD5Bwc4AdZ3zEbgoF__r0A&s=09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/@shaileshkale762" target="_blank">
